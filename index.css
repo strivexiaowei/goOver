@@ -1,0 +1,21 @@
+div {
+  box-sizing: border-box;
+}
+
+.yuan {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border-width: 20px;
+  border-color: aqua salmon;
+  border-style: solid;
+}
+
+.sjx {
+  width: 40px;
+  height: 40px;
+  border-width: 30px 20px 0;
+  border-color: aqua transparent transparent transparent;
+  border-style: solid;
+  border-radius: 50% 50% 0 0;
+}
